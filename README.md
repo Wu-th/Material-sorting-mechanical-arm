@@ -28,5 +28,4 @@
 
 ## 实物图
 
-![实物图](C:\Users\taihu\Desktop\招聘\IMG_1258(20220227-163235).PNG)
-
+![IMG_1258(20220227-163235)](https://user-images.githubusercontent.com/54446945/156695417-0bc5e3d8-2e5f-4beb-9d82-cc09723fa759.PNG)
